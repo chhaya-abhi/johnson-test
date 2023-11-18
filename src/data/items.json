@@ -1,0 +1,32 @@
+[
+    {"id": 1,
+    "name":  "Check2 o4 in 1",
+    "price": "10.00",
+    "ref_no": "302.001",
+    "details": "50 test strips",
+    "description":"description",
+    "specification":"specification",
+    "delivery":"delivery",
+    "imgUrl":"./images/product1.jpg"
+    },
+    {"id": 2,
+    "name":  "Check4 o4 in 2",
+    "price": "15.00",
+    "ref_no": "302.002",
+    "details": "25 test strips",
+    "description":"description",
+    "specification":"specification",
+    "delivery":"delivery",
+    "imgUrl":"./images/product2.jpg"
+    },
+    {"id": 3,
+    "name":  "Check6 o4 in 3",
+    "price": "16.00",
+    "ref_no": "302.003",
+    "details": "30 test strips",
+    "description":"description",
+    "specification":"specification",
+    "delivery":"delivery",
+    "imgUrl":"./images/product2.jpg"
+    }
+]
